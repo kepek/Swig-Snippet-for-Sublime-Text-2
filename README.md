@@ -46,7 +46,6 @@ Write one of this words below and press ``tab``.
     %filter
     %for
     %if
-    %import
     %include
     %macro
     %parent
@@ -72,7 +71,6 @@ Supported Tags
 * [filter](http://paularmstrong.github.io/swig/docs/tags/#filter)
 * [for](http://paularmstrong.github.io/swig/docs/tags/#for)
 * [if](http://paularmstrong.github.io/swig/docs/tags/#if)
-* [import](http://paularmstrong.github.io/swig/docs/tags/#import)
 * [include](http://paularmstrong.github.io/swig/docs/tags/#include)
 * [macro](http://paularmstrong.github.io/swig/docs/tags/#macro)
 * [parent](http://paularmstrong.github.io/swig/docs/tags/#parent)
