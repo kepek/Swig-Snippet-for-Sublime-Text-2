@@ -80,6 +80,4 @@ Supported Tags
 
 License
 ------------
-Feel free to whatever ;)
-
 Cheers!
